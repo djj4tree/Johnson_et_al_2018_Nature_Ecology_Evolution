@@ -1,0 +1,57 @@
+growth	mode
+0.61798216	Understory
+0.5366698	Understory
+0.67684677	Understory
+0.3897664	Understory
+1.039856667	Understory
+0.1973995	Understory
+0.355480833	Understory
+0.4088585	Understory
+0.643670653	Understory
+0.53564832	Understory
+0.5924661	Understory
+0.5907462	Understory
+0.3526106	Understory
+0.5202873	Understory
+1.721994667	Transient
+NA	Transient
+NA	Transient
+0.57296785	Transient
+2.567395433	Transient
+NA	Transient
+0.42901665	Transient
+NA	Transient
+0.80894422	Transient
+NA	Transient
+NA	Transient
+3.2989202	Transient
+0.7602086	Transient
+4.2685701	Transient
+1.62245596	Canopy
+0.714718467	Canopy
+0.67506522	Canopy
+1.01564345	Canopy
+2.624641767	Canopy
+0.5173328	Canopy
+0.574780133	Canopy
+1.282538	Canopy
+1.086330788	Canopy
+0.56014622	Canopy
+1.61701095	Canopy
+1.02731762	Canopy
+0.67208585	Canopy
+1.0251412	Canopy
+2.57089798	Large Canopy
+3.6476336	Large Canopy
+1.64387721	Large Canopy
+1.645106	Large Canopy
+2.510682833	Large Canopy
+2.6105815	Large Canopy
+1.047267067	Large Canopy
+1.7832715	Large Canopy
+2.241987275	Large Canopy
+NA	Large Canopy
+2.86263615	Large Canopy
+1.52755296	Large Canopy
+1.28208495	Large Canopy
+2.4101176	Large Canopy
